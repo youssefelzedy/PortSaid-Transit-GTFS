@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "name": "Ferry Borfouad <-> Port Said",
+        "stroke": "#0239c5",
+        "stroke-width": 3,
+        "stroke-opacity": 0.9
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.31381759760932,
+            31.254244826038295
+          ],
+          [
+            32.310684441962515,
+            31.25930946920151
+          ]
+        ]
+      }
+    }
+  ]
+}
